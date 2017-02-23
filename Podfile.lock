@@ -1,0 +1,16 @@
+PODS:
+  - ConnectSDK (3.0.9)
+
+DEPENDENCIES:
+  - ConnectSDK (from `./ConnectSDK`)
+
+EXTERNAL SOURCES:
+  ConnectSDK:
+    :path: "./ConnectSDK"
+
+SPEC CHECKSUMS:
+  ConnectSDK: 9c2229de77d577810de3e5c064f1d2abda27995c
+
+PODFILE CHECKSUM: d0fd9026b60b3ca23327f57253a3a14f361c53a2
+
+COCOAPODS: 1.2.0
